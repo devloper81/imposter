@@ -35,7 +35,7 @@
   { "category": "Vehicles", "civilian": "Boat", "undercover": "Ship" },
   { "category": "Vehicles", "civilian": "Plane", "undercover": "Jet" },
   { "category": "Sports", "civilian": "Soccer", "undercover": "Football" },
-  { "category": "Sports", "civilian": "Basketball", "undercover": "Hoop" },
+  { "category": "Sports", "civilian": "Crow", "undercover": "Hoop" },
   { "category": "Sports", "civilian": "Tennis", "undercover": "Racket" },
   { "category": "Sports", "civilian": "Golf", "undercover": "Club" },
   { "category": "Sports", "civilian": "Baseball", "undercover": "Softball" },
