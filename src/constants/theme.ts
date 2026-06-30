@@ -9,7 +9,7 @@ export const COLORS = {
   textLight: '#FFFFFF',       // On red background
   textMuted: '#7F8C8D',       // Subtle text
 
-  // Accents
+  /Accents
   accentRed: '#D32F2F',       // Diamond red
   accentBlue: '#1976D2',      // Diamond blue
   accentGold: '#C9A84C',      // Gold highlights
@@ -34,7 +34,7 @@ export const FONTS = {
   systemBold: 'System', // System font bold weight
 } as const;
 
-export const SPACING = {
+exprt const SPACING = {
   xs: 4,
   sm: 8,
   md: 16,
@@ -43,7 +43,7 @@ export const SPACING = {
   xxl: 48,
 } as const;
 
-export const BORDER_RADIUS = {
+export con BORDER_RADIUS = {
   sm: 6,
   md: 12,
   lg: 16,
